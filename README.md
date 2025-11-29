@@ -27,7 +27,8 @@ In my next projects, I will embed a 3D model into the website.
 
 ## Setup & run locally
 ```bash
-git clone https://github.com/HebiHause/hebi-hause-portfolio.git
+git clone https://hebihause.github.io/hebi-hause-portfolio.git
 cd hebi-hause-portfolio
+
 
 
