@@ -3,7 +3,7 @@
 My very first fully self-developed and self-designed website (2025).  
 A clean, responsive single-page portfolio that combines my passion for UI/UX design and front-end development.
 
-Live demo → https://HebiHause.github.io/hebi-hause-portfolio
+Live demo → https://hebihause.github.io/hebi-hause-portfolio/
 
 ## Preview
 ![Hebi Hause Screenshot](./screenshot-desktop.png)
@@ -29,4 +29,5 @@ In my next projects, I will embed a 3D model into the website.
 ```bash
 git clone https://github.com/HebiHause/hebi-hause-portfolio.git
 cd hebi-hause-portfolio
+
 
