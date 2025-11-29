@@ -6,7 +6,7 @@ A clean, responsive single-page portfolio that combines my passion for UI/UX des
 Live demo → https://HebiHause.github.io/hebi-hause-portfolio
 
 ## Preview
-![Hebi Hause Screenshot](./preview/screenshot-desktop.png)
+![Hebi Hause Screenshot](./screenshot-desktop.png)
 
 ## Features
 - 100 % vanilla HTML5 + CSS3 (no frameworks)
@@ -29,3 +29,4 @@ In my next projects, I will embed a 3D model into the website.
 ```bash
 git clone https://github.com/HebiHause/hebi-hause-portfolio.git
 cd hebi-hause-portfolio
+
