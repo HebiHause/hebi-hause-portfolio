@@ -1,0 +1,200 @@
+.holtwood-one-sc-regular {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #1B3F2D;
+  background-image: url(romb.svg);
+  background-size: 80px 80px;
+  width: 100%;
+  max-width: 1400px;     /* або 1200px — як тобі подобається */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+img {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: auto 0px;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+nav {
+  margin: 0px;
+  padding: 0px;
+  background-color: #0B1912;
+  height: 10vh;
+  display: flex;
+}
+
+h1, h2 {
+  margin: auto;
+  padding: 0px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Holtwood One SC", Helvetica, sans-serif;
+  color: #E8DBC7;
+  
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin: auto;
+  padding: 0px;
+}
+
+li, a{
+  margin: 0px 20px;
+  padding: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #E8DBC7;
+  text-decoration: none;
+}
+
+button {
+  margin: auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #E8DBC7;
+  background-color: #5C466C;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.home-content {
+  position: relative;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7vh;
+  padding: 20px;
+  background-color: #1B3F2D;
+  border-radius: 50px;
+  height: 220px;
+  box-shadow: 0px 0px 50px;
+}
+
+h2 {
+  text-align: left;
+  margin: auto;
+  padding: 16px;
+  font-size: 35px;
+}
+
+.phome {
+  text-align: left;
+  margin: -5px 0px;
+  padding: 16px;
+  font-size: 20px;
+  color: white;
+}
+
+#btn2 {
+  font-size: 16px;
+  height: auto;
+  position: left;
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+}
+
+.big_logo {
+  position: absolute;
+  right: -30px;
+  top: -20px;
+  height: 310px;
+  width: 310px;
+
+}
+
+/* cards! */
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.selected_card {
+  display: flex;
+  height: 320px;
+  width: 250px;
+  background-color: #5C466C;
+  border-radius: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: inset 10px 10px 10px #735986,
+  inset -10px -10px 5px #402E4D;
+}
+
+.card {
+  display: flex;
+  height: 250px;
+  width: 250px;
+  background-color: #0B1A13;
+  border-radius: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: inset 10px 10px 10px #173124,
+  inset -10px -10px 5px #08130E;
+}
+
+.card_title {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Holtwood One SC", Helvetica, sans-serif;
+  color: #E8DBC7;
+  margin: 10px 0;
+}
+
+.card-image {
+  height: 45%;
+  width: 70%;
+  margin: 30px;
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-bottom: 20px;
+}
+
+.card-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.card_selected_image {
+  height: 40%;
+  width: 80%;
+  margin: 30px;
+  padding: 0px;
+}
+  
+.card_selected_image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+/* cards! */
+
